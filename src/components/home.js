@@ -21,9 +21,7 @@ buttonClicked(){
 }
 
   componentDidMount() {
-
   }
-
 
   render() {
     return (
