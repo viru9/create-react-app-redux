@@ -6,13 +6,13 @@ export const HOME_DATA = {
   "response": [
     {
       "id": 1,
-      "value": "1"
+      "value": "Menu 1"
     }, {
       "id": 2,
-      "value": "2"
+      "value": "Menu 2"
     }, {
       "id": 3,
-      "value": "3"
+      "value": "Menu 3"
     }
   ]
 }

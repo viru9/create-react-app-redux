@@ -9,6 +9,9 @@ For the project to build, **these files must exist with exact filenames**:
 
 In the project directory, you can run:
 
+### `npm install`
+install the dependencies
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
